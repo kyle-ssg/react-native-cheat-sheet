@@ -17,3 +17,13 @@ Submit an issue with any general ReactNative problem you're facing and I'll add 
 
 #Answer
 Submit a PR with suitable examples.
+
+
+#todo
+- [ ] Lifecycle Overiew
+- [ ] Keyboard handling
+- [ ] Sectioned list views
+- [ ] Layout
+- [ ] Image resizing / Upload 
+- [ ] Deployment 
+- [ ] Icons
