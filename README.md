@@ -27,3 +27,4 @@ Submit a PR with suitable examples.
 - [ ] Image resizing / Upload 
 - [ ] Deployment 
 - [ ] Icons
+- [ ] Pan responder
