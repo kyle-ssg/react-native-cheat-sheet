@@ -9,3 +9,9 @@ Clone this repo, ```npm i``` or ```yarn```
 
 #Run
 ```react-native run-ios``` or ```react-native run-android```
+
+#Ask
+Submit an issue with any general ReactNative problem you're facing and I'll add it to the repoisitory.
+
+#Answer
+Submit a PR with suitable examples.
