@@ -19,7 +19,7 @@ Submit an issue with any general ReactNative problem you're facing and I'll add 
 Submit a PR with suitable examples.
 
 
-#todo
+#todo for v1.0
 - [ ] Lifecycle Overiew
 - [ ] Keyboard handling
 - [ ] Sectioned list views
